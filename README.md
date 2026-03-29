@@ -59,16 +59,11 @@ Engineered a real-time AI assistant for doctors using LangGraph, RAG, and voice 
 
 ---
 
-## 📊 GitHub Stats
-
-![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 🌍 Portfolio: (Add your website)
+- 💼 LinkedIn: https://www.linkedin.com/in/naveed-khan-baloch-1954518/
+- 🌍 Portfolio: https://naveed-khan.site/
 - 📧 Email: naveedk09@gmail.com
 
 ---
