@@ -64,6 +64,8 @@ Engineered a real-time AI assistant for doctors using LangGraph, RAG, and voice 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/naveed-khan-baloch-1954518/
 - 🌍 Portfolio: https://naveed-khan.site/
+- 📚 Google Scholar: https://scholar.google.com/citations?hl=en&user=iHF3OyUAAAAJ
+- 💻 Upwork: https://www.upwork.com/freelancers/~01c766a0a5b535c55f
 - 📧 Email: naveedk09@gmail.com
 
 ---
